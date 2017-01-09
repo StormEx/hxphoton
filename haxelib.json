@@ -1,0 +1,17 @@
+{
+	"name": "hxphoton",
+	"license": "MIT",
+	"tags": [
+		"signals",
+		"signal",
+		"simple"
+	],
+	"classPath": "src",
+	"description": "Simple signals",
+	"contributors": [
+		"storm_ex"
+	],
+	"releasenote": "Initial release",
+	"version": "0.0.1",
+	"url": "https://github.com/StormEx/hxphoton"
+}
